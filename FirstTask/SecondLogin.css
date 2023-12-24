@@ -1,0 +1,47 @@
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.welcome {
+    margin-top: 120px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: crimson;
+   
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    border: 1px solid #ccc;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+.NotAMember {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    color: gray;
+}
+
+.butt {
+    margin-left: 60px;
+}
